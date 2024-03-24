@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @elhoang
+- 🧋 I'm a student at the University of Waterloo, studying Electrical Engineering
+- 👀 I’m interested in: way too many things (Python, SQL, Javascript, HTML, cybersecurity, ...)
+- 🌱 I’m currently learning: Data Analytics
+- 💞️ I’m looking to collaborate on: any projects involving machine learning and AI
+- 📫 How to reach me: elhoang@uwaterloo.ca
+- ⚡ Fun fact: I love bubble tea!
